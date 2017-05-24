@@ -17,4 +17,4 @@ And I'm trying to do more interesting work in **coding** although it looks like 
 * Nodejs
 * ...
 
-Click **"View on Github"** to expolre more about me!
+Click [**"View on Github"**](https://github.com/KuangJie7) to expolre more about me!
