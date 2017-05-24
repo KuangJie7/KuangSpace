@@ -1,6 +1,6 @@
 # Welcome to MyBolg!
 
-## Hi! I'm Kuangjie and I'm so happy to see you here!
+## Hi! I'm *Kuangjie* and I'm so happy to see you here!****
 
 #### I'm studying in **School of Material Science and Engineering,Tsinghua University** now.
 
