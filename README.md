@@ -8,13 +8,21 @@ And I'm trying to do more interesting work in **coding** although it looks like 
 
 **Followings are what I've been learning :**
 
-* C Language
-* HTML+css, XTML
+* C
+* Java
+* HTML + CSS
 * JavaScript, jQuery
-* BootStrap & React
+* React
 * Ajax
 * Json
-* Nodejs
 * ...
+
+**Followings are what I'm learning :**
+* Three.js
+* Nodejs
+* Sass
+* Python
+* ...
+
 
 Click [**"View on Github"**](https://github.com/KuangJie7) to expolre more about me!
